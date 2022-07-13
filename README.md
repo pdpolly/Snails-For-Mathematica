@@ -14,4 +14,4 @@ Installing the package
 The package is created and updated by P. David Polly, Department of Earth & Atmospheric Sciences, Indiana University, Bloomington, Indiana 47405  USA.  pdpolly@indiana.edu
 
 Cite as:  
-Polly, P.D.  2022.  Snails for Mathematica. Version 1.0. Department of Earth and Atmospheric Sciences, Indiana University: Bloomington, Indiana. https://pollylab.indiana.edu/software.html
+Polly, P.D.  2022.  Snails for Mathematica. Version 1.0. https://github.com/pdpolly/Snails-For-Mathematica
