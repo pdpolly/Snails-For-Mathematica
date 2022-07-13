@@ -1,4 +1,4 @@
-# snails
+# Snails for Mathematica
 <i>Snails for Mathematica</i> is a package for Wolfram Mathematica to generate 3D renderings of snail shells using David Raup's equations.  See PDF user manual for details about how to use the snail functions.
 
 Installing the package
