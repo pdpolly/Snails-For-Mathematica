@@ -3,7 +3,7 @@
 
 Installing the package
 <ol>
-<li>Download the latest version as .m file.</li>
+<li>Download the latest version as .m file by right clicking the link and saving on your local machine.</li>
 <li>Open the file in Mathematica.</li>
 <li>Under the File menu, choose “Install”</li>
 <li>Under Type of Item choose “Package”, under source choose the file you just saved, under Install Name choose a short name for the package (e.g., “Snails”).</li>
