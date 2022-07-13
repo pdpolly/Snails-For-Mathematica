@@ -7,7 +7,7 @@ Installing the package
 <li>Open the file in Mathematica.</li>
 <li>Under the File menu, choose “Install”</li>
 <li>Under Type of Item choose “Package”, under source choose the file you just saved, under Install Name choose a short name for the package (e.g., “Snails”).</li>
-<li>Once installed, enter the command “<<Snails`” to use the functions.</li>
+<li>Once installed, enter the command &lt;&lt;Snails` to load the functions for use in your notebook.</li>
 <li>Use the function SnailsVersion[] to determine which version you have installed.</li>
 </ol>
 
