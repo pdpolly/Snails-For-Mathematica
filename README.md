@@ -1,9 +1,12 @@
 # Snails for Mathematica
+
+<img src="https://github.com/pdpolly/Snails-For-Mathematica/blob/main/SnailsIconGitHub.jpg">
+
 <i>Snails for Mathematica</i> is a package for Wolfram Mathematica to generate 3D renderings of snail shells using David Raup's equations.  See PDF user manual for details about how to use the snail functions.
 
 Installing the package
 <ol>
-<li>Download the latest version as .m file by right clicking the link and saving on your local machine.</li>
+<li>Download the .m file from <a href="https://github.com/pdpolly/Snails-For-Mathematica/releases/latest">the latest release</a>.</li>
 <li>Open the file in Mathematica.</li>
 <li>Under the File menu, choose “Install”</li>
 <li>Under Type of Item choose “Package”, under source choose the file you just saved, under Install Name choose a short name for the package (e.g., “Snails”).</li>
