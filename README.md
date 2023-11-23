@@ -14,7 +14,5 @@ Installing the package
 <li>Use the function SnailsVersion[] to determine which version you have installed.</li>
 </ol>
 
-The package is created and updated by P. David Polly, Department of Earth & Atmospheric Sciences, Indiana University, Bloomington, Indiana 47405  USA.  pdpolly@indiana.edu
-
 Cite as:  
 Polly, P.D.  2022.  Snails for Mathematica. Version 1.0. https://github.com/pdpolly/Snails-For-Mathematica
