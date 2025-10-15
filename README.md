@@ -15,4 +15,4 @@ Installing the package
 </ol>
 
 Cite as:  
-Polly, P.D.  2025.  Snails for Mathematica. Version 1.1. https://github.com/pdpolly/Snails-For-Mathematica [![DOI]https://zenodo.org/badge/DOI/10.5281/zenodo.17363033.svg]
+Polly, P.D.  2025.  Snails for Mathematica. Version 1.1. https://github.com/pdpolly/Snails-For-Mathematica ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17363033.svg)
